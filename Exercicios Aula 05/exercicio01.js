@@ -1,0 +1,1 @@
+const frutas = ['Pera', 'Uva', 'Maça']; //cria um array chamado frutas
