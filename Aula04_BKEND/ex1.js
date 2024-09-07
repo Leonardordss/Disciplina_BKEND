@@ -4,7 +4,7 @@ class Carro {
     this.marca = marca;
     this.modelo = modelo;
     this.ano = ano;
-    this.motorLigado = false; // O motor está desligado por padrão
+    this.motorLigado = false; // O motor está desligado por padrão para realizar o teste
   }
 
 
