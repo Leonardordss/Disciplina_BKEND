@@ -1,3 +1,5 @@
+//criando variavel
+
 const variavelNull = null;
 let variavelUndefined;
 
